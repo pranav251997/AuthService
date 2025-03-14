@@ -1,1 +1,1 @@
-"# AuthService" 
+A secure authentication microservice using Spring Boot, JWT, and OAuth2. Features user signup/login, role-based access (RBAC), token generation & refresh, and event-driven authentication. Ensures seamless identity management for microservices.
